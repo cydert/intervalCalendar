@@ -1,3 +1,10 @@
+.title {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+}
+
 #calendar {
     display: flex;
     flex-wrap: wrap;
